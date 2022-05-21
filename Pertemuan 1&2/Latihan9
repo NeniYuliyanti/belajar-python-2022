@@ -1,0 +1,5 @@
+#unit tekanan
+#tekanan=float(input("nilai tekanan dalam satuan kilopascal"))
+#print(tekanan,"kilopascal=",tekanan*0.145038,"psi=",tekanan*7.50062,"mmhg=",tekanan*0.00986923)
+tekanan=float(1)
+print(tekanan,"kilopascal=",tekanan*0.145038,"psi=",tekanan*7.50062,"mmhg=",tekanan*0.00986923)
