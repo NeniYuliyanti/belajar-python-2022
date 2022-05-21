@@ -1,0 +1,3 @@
+#Jumlah dari n Integer Positif Pertama
+n=int(input(nilai n))
+print("Jumlah dari n Integer Positif Pertama adalah", ((n)*(n+1))/2)
