@@ -1,0 +1,5 @@
+# luas segitiga
+a=4
+t=2
+luas=(a*t)/2
+print("luas segitiga dengan panjang alas",a,"dan tinggi",t,"adalah",luas)
