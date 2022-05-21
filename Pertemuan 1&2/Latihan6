@@ -1,0 +1,3 @@
+#satuan jarak
+jarak=float(input("nilai jarak dalam satuan kaki"))
+print(jarak,"kaki=",jarak*12,"inchi=",jarak*0.3333,"yard=",jarak*0.00018939,"mil")
