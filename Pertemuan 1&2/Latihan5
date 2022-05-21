@@ -1,0 +1,7 @@
+#satuan tinggi
+#kaki=float(input("tinggi dalam satuan kaki"))
+#inchi=float(input("tinggi dalam satuan inchi"))
+#print(kaki,"kaki=",kaki*12,"inchi\n",kaki,"kaki=",kaki*12*2.54,"cm\n",inchi,"inchi=",inchi*2.54,"cm")
+kaki=float(15)
+inchi=float(7)
+print(kaki,"kaki=",kaki*12,"inchi\n",kaki,"kaki=",kaki*12*2.54,"cm\n",inchi,"inchi=",inchi*2.54,"cm")
