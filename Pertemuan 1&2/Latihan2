@@ -1,0 +1,3 @@
+# halo
+nama="Lia"
+print("Halo,",nama)
