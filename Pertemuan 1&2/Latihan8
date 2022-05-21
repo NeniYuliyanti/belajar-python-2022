@@ -1,0 +1,5 @@
+#Body Mass Index
+berat=55
+tinggi=1.61
+BMI=berat/(tinggi*tinggi)
+print("BMI dari seseorang dengan berat",berat,"kilogram","dan tinggi",tinggi,"meter","adalah",BMI)
