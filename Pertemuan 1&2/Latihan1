@@ -1,0 +1,6 @@
+# biodata
+nama="Cut Syifa Hanasalsabila"
+_gender="Wanita"
+asal="Bekasi"
+umur=23
+print("Biodata Artis Cut Syifa","\nNama :",nama,"\nGender :",_gender,"\nAsal :",asal,"\nUmur :",umur)
